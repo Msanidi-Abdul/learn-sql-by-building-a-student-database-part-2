@@ -64,3 +64,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql -u postgres < students.sql
 psql -U postgres < students.sql
+ztouch student_info.sh
+touch student_info.sh
