@@ -67,3 +67,4 @@ psql -U postgres < students.sql
 ztouch student_info.sh
 touch student_info.sh
 chmod +x student_info.sh
+./student_info.sh
