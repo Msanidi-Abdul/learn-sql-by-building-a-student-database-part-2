@@ -149,3 +149,4 @@ psql --username=freecodecamp --dbname=students
 ./student_info.sh
 ./student.sh
 ./student_info.sh
+./student_info.sh
